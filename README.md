@@ -1,6 +1,6 @@
 - Undergarduate Student
 - Major: Industrial Engeineering
-- Interesting in NLP, Computer Vision, ETC... *NOT MEANS GOOD AT*
+- Interesting in NLP, Computer Vision, ETC... *NOT GOOD AT*
 - Using Github for making toy projects, or backup.
 - Not familiar at github. Need to study.
 
