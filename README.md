@@ -1,4 +1,4 @@
-- Undergarduate Student
+- B.S Student
 - Major: Industrial Engeineering
 - Interesting in NLP, Computer Vision, ETC... *NOT GOOD AT*
 - Using Github for making toy projects, or backup.
