@@ -1,6 +1,6 @@
 - B.S Student
 - Major: Industrial Engeineering
-- Interesting in NLP, Computer Vision, ETC... *NOT GOOD AT*
+- Interesting in Human Pose Esimation, Computer Vision, ETC...
 - Using Github for making toy projects, or backup.
 - Not familiar at github. Need to study.
 
