@@ -1,6 +1,6 @@
-- B.S Student
-- Major: Industrial Engeineering
-- Interesting in Human Pose Esimation, Computer Vision, ETC...
+- Undertaking Master Course
+- Major: VR, Metaverse(M.S), Industrial Engeineering(B.S)
+- Interesting in Human Pose Esimation, Computer Vision, Motion Generation...
 - Using Github for making toy projects, or backup.
 - Not familiar at github. Need to study.
 
