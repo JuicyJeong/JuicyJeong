@@ -1,6 +1,6 @@
-- Undertaking Master Course
 - Major: VR, Metaverse(M.S), Industrial Engeineering(B.S)
 - Interesting in Human Pose Esimation, Computer Vision, Motion Generation...
+- Python: Data Crawling, Data preprocessing / C#: Unity3D Script
 - Using Github for making toy projects, or backup.
 
 
