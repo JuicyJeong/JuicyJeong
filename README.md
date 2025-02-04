@@ -1,7 +1,21 @@
-- Major: VR, Metaverse(M.S), Industrial Engeineering(B.S)
-- Interesting in Human Pose Esimation, Computer Vision, Motion Generation...
-- Python: Data Crawling, Data preprocessing / C#: Unity3D Script
-- Using Github for making toy projects, or backup.
+# Profile
+
+## Education
+- **M.S.** in VR, Metaverse
+- **B.S.** in Industrial Engineering
+
+## Interests
+- Human Pose Estimation
+- Computer Vision
+- Motion Generation
+- …
+
+## Skills
+- **Python:** Data Crawling, Data Preprocessing
+- **C#:** Unity3D Scripting
+
+## Projects
+- Using GitHub for toy projects and backup repositories
 
 
 <!---
