@@ -61,13 +61,13 @@
 - **ICDDS2024 (Oral Presentation)**
 
 ### Domestic Conferences
-- Korean Institute of Industrial Engineers (2022)
-- Korean Software Conference (2023, 2024)
+- Korean Institute of Industrial Engineers(대한산업공학회) (2022)
+- Korean Software Conference(한국정보과학회) (2023, 2024)
 
 ---
 
 ## 🌟 Certifications
-- **ADsP (Advanced Data Semi-professional)** – Korea Data Agency (2021)
+- **ADsP (Advanced Data Semi-professional)** – 한국데이터산업진흥원 (2021)
 - **TOEIC Speaking – Intermediate High** (2025)
 
 ---
