@@ -1,77 +1,77 @@
 # 👋 Hi, I'm Jinwoo Jeong
 
-### 🌟 About Me
-- **Name**: Jinwoo Jeong
-- **GitHub:** [JuicyJeong](https://github.com/JuicyJeong)
+Manufacturing Vision AI Engineer (PM/Lead) focused on taking deep learning projects from **data acquisition to line deployment**.
+
+---
+
+## 🧭 About Me
+- **Name:** Jinwoo Jeong
+- **Role:** AI Engineer, PM + Lead (Manufacturing Vision AI)
 - **Email:** [jinwoo327@gmail.com](mailto:jinwoo327@gmail.com)
+- **GitHub:** [JuicyJeong](https://github.com/JuicyJeong)
 
 ---
 
-## 🚀 Skills & Tools
-
-### Languages & Frameworks
-- **Python** (`PyTorch`, `Numpy`, `Pandas`, `Matplotlib`, `BeautifulSoup4`, `Selenium`)
-- **C#** (`Unity3D` scripting)
-- **C++** (SDK integration for sensors like LiDAR and IMU)
-- **Shell Scripting** (`Bash`, `Powershell`)
-
-### Tools & Platforms
-- **Git/GitHub**: Version control and collaborative projects
-- **Docker**, **Conda**, Multi-GPU setups
-- **Operating Systems**: Linux(Ubuntu), Windows, macOS
-- **Networking & System Administration**: NAS setup, Internal network management, Port forwarding, DDNS
+## 💼 Work
+### HiveVision Co., Ltd. — AI/System Development Team *(2025.05 – Present)*
+- Led end-to-end manufacturing AI projects: image acquisition, labeling, dataset setup, training/deployment, and on-site application.
+- Covered practical tasks across **Detection / Segmentation / Classification / OCR**.
+- Refactored Deepculus architecture from Boost.Python-style coupling to **C# ↔ Python socket-based runtime communication**.
+- Improved deployment robustness with protocol design + packaging/security workflow (PyInstaller, PyArmor, archive protection).
+- Applied model optimization workflow with **ONNX / TensorRT** and large-image tiling-based inference handling.
+- Collaborated cross-functionally with optics/system teams for visibility checks, tact-time alignment, and customer-specific integration.
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Core Skills
+### AI Engineering
+- **PyTorch**, Detection, Segmentation, Classification, OCR
+- **Serving/Deployment:** ONNX, TensorRT
+- **LLM Workflow:** Prompt Engineering, Agentic Workflow, MCP, vLLM
 
-### 🎓 Graduate Research Projects
-- **3D Motion Estimation and Generation** *(2023 - 2025)*
-  - Developed and retrained deep learning models for 3D avatar motion synthesis.
-  - Implemented 3D gesture recognition systems with hardware sensor integration and Unity3D.
-  - Published papers and presented findings at domestic and international conferences ([VRST2024](https://vrst.acm.org/), [ICDDS2024](https://icdds.org/)).
-
-- **Factory Queue Saturation Detection Using Object Detection**
-  - Utilized YOLOv4 for detecting bottlenecks in a simulated factory environment.
-  - Presented at the [Korean Institute of Industrial Engineers Conference](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11172335).
-
-### 🛠️ Personal Projects
-
-- **Event Booth Data Crawling and Automation**
-  - Web scraping of exhibitor information from event websites, automated data organization and visualization in Google Sheets.
-  - [2022 Seoul Cafe Show Exhibitor List](https://github.com/JuicyJeong/cafeshow2022-crawling)
-
-- **Real-time Music Chart Bot**
-  - Developed a Twitter bot for automated music streaming and real-time chart monitoring.
-
-- **Virtual Interaction & Gesture-based Avatar Motion Generation**
-  - Adapted existing deep-learning models to generate new avatar motions based on modified training datasets.
-
-### 🎮 Game Development
-
-- **Game Project Leader (Graduate course)**
-  - Managed mobile game development within 15-week period using Unity3D, responsible for ideation, team coordination, and release management.
+### Engineering Stack
+- **Programming:** Python, C#, C++, Bash/Shell
+- **OS/Infra:** Ubuntu, macOS, Windows, NAS (Synology / TrueNAS)
+- **Environment:** Conda, uv, Git/GitHub, SSH
 
 ---
 
-## 📜 Publications
+## 🧪 Projects
+### Graduate Projects (Human Motion)
+- **ACTOR retraining for avatar motion generation**
+  - Retrained a public motion generation model with modified datasets and visualized outputs in Unity3D.
+- **Motion similarity automation tool (TMR-based)**
+  - Automated embedding generation/similarity evaluation and improved throughput with custom loader + parallel processing.
+- **Unity3D + IMU real-time motion visualization**
+  - Connected IMU sensor data to SMPL-X avatar joint rotations with calibration/alignment scripts.
 
-### International Conferences
-- **VRST2024 (Poster)**
-- **ICDDS2024 (Oral Presentation)**
-
-### Domestic Conferences
-- Korean Institute of Industrial Engineers(대한산업공학회) (2022)
-- Korean Software Conference(한국정보과학회) (2023, 2024)
+### Personal Projects
+- **Event booth crawling & visualization system**
+  - Crawled exhibitor data and organized/visualized it in Google Sheets for planning.
+- **Event account info collection pipeline**
+  - Automated account collection and structured shared operation data.
+- **Music chart collection & auto-posting bot**
+  - Operated a real-time chart data pipeline with automated posting workflow.
 
 ---
 
-## 🌟 Certifications
-- **ADsP (Advanced Data Semi-professional)** – 한국데이터산업진흥원 (2021)
-- **TOEIC Speaking – Intermediate High** (2025)
+## 📚 Publications
+### International
+- **VRST 2024** (Poster)
+- **ICDDS 2024** (Oral)
+
+### Domestic
+- Korean Institute of Industrial Engineers (2022)
+- Korean Software Conference (2023, 2024)
+
+---
+
+## 🏅 Certifications
+- **ADsP** (Advanced Data Analytics Semi-Professional)
+- **TOEIC Speaking IH**
 
 ---
 
 ## 📫 Contact
-- Email: jinwoo327@gmail.com
+- Email: [jinwoo327@gmail.com](mailto:jinwoo327@gmail.com)
 - GitHub: [JuicyJeong](https://github.com/JuicyJeong)
