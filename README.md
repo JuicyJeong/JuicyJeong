@@ -7,6 +7,9 @@ Manufacturing Vision AI Engineer (PM/Lead) focused on taking deep learning proje
 ## 🧭 About Me
 - **Name:** Jinwoo Jeong
 - **Role:** AI Engineer, PM + Lead (Manufacturing Vision AI)
+- **Engineering Focus:** Deep Learning-based Vision Inspection, Model Deployment, Inference Optimization, Cross-functional Project Delivery
+- **Tech Stack (Main):** Python, C#, C++, PyTorch, ONNX, TensorRT
+- **Language Stack:** Korean (Native), English (Work Communication), Japanese (Daily Communication)
 - **Email:** [jinwoo327@gmail.com](mailto:jinwoo327@gmail.com)
 - **GitHub:** [JuicyJeong](https://github.com/JuicyJeong)
 
